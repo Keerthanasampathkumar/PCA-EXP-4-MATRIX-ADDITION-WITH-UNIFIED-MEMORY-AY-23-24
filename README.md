@@ -275,7 +275,7 @@ int main(int argc, char **argv)
 }
 ```
 ### WITHOUT MEMSET()
-```
+```C
 %%cuda
 #include <stdio.h>
 #include <cuda_runtime.h>
